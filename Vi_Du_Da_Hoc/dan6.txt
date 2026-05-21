@@ -1,0 +1,4 @@
+Hàm return có
+trả về đúng giá trị
+hàm cần báo
+Lưu chuỗi trong file

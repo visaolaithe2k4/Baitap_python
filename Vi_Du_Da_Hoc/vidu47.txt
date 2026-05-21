@@ -1,0 +1,3 @@
+Xin chào Python
+Đây là dòng thứ 2
+Học lập trình Python
